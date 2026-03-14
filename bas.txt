@@ -1,0 +1,131 @@
+
+        <div class="bg_pink">
+            <center class="m_0a d_block max_wpx_700 color_black py_40">
+                <div class="px_20"><img src="greca1.png" class="w_100 filter_white"></div>
+                <button href="#" class="font_paris fspx_30 my_btn bg_white py_5 px_20 rounded color_black d_block w_100 my_20 text_shadow_dark no_link"
+                        data-bs-toggle="modal" data-bs-target="#PaseModal3">
+                    <i class="fa fa-id-card-o mr_10" aria-hidden="true"></i><span>Pase General</span>
+                </button>
+                <div class="px_20"><img src="greca1.png" class="w_100 filter_white rotate_180"></div>
+            </center>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="PaseModal3">
+          <div class="modal-dialog modal-lg">
+            <div class="text_right mb_15" style="pointer-events: auto;">
+                <button class="my_btn bg_pink color_white rounded " data-bs-dismiss="modal" aria-label="Close">
+                    <i class="material-icons p_5">close</i>
+                </button>
+            </div>
+            <div class="modal-content bg_transparent">
+                <div class="rounded" id="map1">
+                    
+
+<style>
+.pase-xv {
+    background: linear-gradient(145deg, #ffffff 0%, #faf8ff 100%);
+    border-radius: 11px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: serif;
+    max-width: 500px;
+}
+.encabezado-xv {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.titulo-principal {
+    font-size: 3em;
+    font-weight: 700;
+    background: linear-gradient(45deg, #d4af37, #ffd700, #b8860b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+}
+.subtitulo-inv {
+    font-size: 1.2em;
+    color: #8b4b85;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.contenido-pase {
+    text-align: center;
+}
+.nombre-festejada {
+    font-size: 2.5em;
+    color: #d4af37;
+    margin: 20px 0;
+    font-weight: 700;
+}
+.info-evento {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    padding: 25px 0px 25px 0px;
+    border: 2px solid rgba(212, 175, 55, 0.3);
+}
+.item-detalle {
+    font-size: 1.1em;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+}
+.etiqueta-dato {
+    font-weight: 700;
+    color: #8b4b85;
+    min-width: 80px;
+}
+.mensaje-inv {
+    font-style: italic;
+    color: #8b4b85;
+    font-size: 1.1em;
+    margin-top: 25px;
+    line-height: 1.6;
+}
+</style>
+
+<div class="pase-xv">
+    <div class="encabezado-xv">
+        <h1 class="titulo-principal">XV Años</h1>
+        <p class="subtitulo-inv">Invitación Especial</p>
+    </div>
+    <div class="contenido-pase">
+ 
+        <div class="info-evento">
+            <div class="item-detalle">
+                <span class="etiqueta-dato">Fecha:</span>
+                <span class="valor-dato">20 de diciembre 2025 </span>
+            </div>
+            
+            <div class="item-detalle">
+                <span class="etiqueta-dato">Hora:</span>
+                <span class="valor-dato">3:00 PM</span>
+            </div>
+            
+            <div class="item-detalle">
+                <span class="etiqueta-dato">Lugar:</span>
+                <span class="valor-dato">Jardín Magnolia</span>
+            </div>
+            <div class="item-detalle">
+                <span class="etiqueta-dato">Código:</span>
+                <span class="valor-dato">Formal / Elegante</span>
+            </div>
+
+
+        </div>
+        <p class="mensaje-inv">
+            "Acompáñanos en esta noche mágica donde los sueños se hacen realidad. Tu presencia hará que esta celebración sea aún más especial."
+        </p>
+    </div>
+</div>  
+
+
+                </div>
+            </div>
+          </div>
+        </div>
+
+
+
